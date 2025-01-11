@@ -10,5 +10,5 @@ SkySeries_Freebie [https://assetstore.unity.com/packages/2d/textures-materials/s
 RPG_FPS_game_assets_industrial [https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429](https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429)
 TextMeshPro: Install from the unity package manager.
 
-See (LICENSE.md)[LICENSE.md]
+See [LICENSE.md](LICENSE.md)
 
